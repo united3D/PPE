@@ -1,14 +1,11 @@
-# Face Shield
+# Mask Buckles
 
-Our face shield design is based on the Prusa design. To learn more about it, visit [their site](https://www.prusaprinters.org/prints/27950-prusa-face-shield-us-version).
-
-**Under development. Please refrain from printing unless you receive permission from your regional managers.**
+Our rendition of the classic mask buckle. This helps to reduce the stress of the mask on the ears. 
 
 ## Settings
 Here are some settings that we recommend (depending on your printer):
 
 * Quality:
-	*    Layer Height - 0.18
 	*    Initial Layer - 0.1
 	*    Line Width - 0.5
 * Shell:
@@ -38,5 +35,4 @@ The above has been tested on the follwing printers:
 
 If the above works for your printer, and is not mentioned here, please notify your regional manager.
 
-## License
-The designs are based off of Prusa3D designs. Visit [Prusa3D](https://www.prusa3d.com/) to learn more about the designs. 
+
