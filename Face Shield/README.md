@@ -1,8 +1,8 @@
-#Prusa Face Shield
+# Prusa Face Shield
 
 Our face shield design is based on the Prusa design. To learn more about it, visit [their site](https://www.prusaprinters.org/prints/27950-prusa-face-shield-us-version).
 
-##Settings
+## Settings
 Here are some settings that we recommend (depending on your printer):
 
 * Quality:
@@ -36,5 +36,5 @@ The above has been tested on the follwing printers:
 
 If the above works for your printer, and is not mentioned here, please notify your regional manager.
 
-##License
+## License
 The designs are from Prusa3D. We do not claim any credit nor liability for anything that may occur during printing for these designs. Visit [Prusa3D](https://www.prusa3d.com/) to learn more about the designs. 
