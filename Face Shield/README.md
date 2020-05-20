@@ -37,4 +37,4 @@ The above has been tested on the follwing printers:
 If the above works for your printer, and is not mentioned here, please notify your regional manager.
 
 ## License
-The designs are from Prusa3D. We do not claim any credit nor liability for anything that may occur during printing for these designs. Visit [Prusa3D](https://www.prusa3d.com/) to learn more about the designs. 
+The designs are based off of Prusa3D designs. Visit [Prusa3D](https://www.prusa3d.com/) to learn more about the designs. 
