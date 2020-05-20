@@ -1,4 +1,4 @@
-# Prusa Face Shield
+# Face Shield
 
 Our face shield design is based on the Prusa design. To learn more about it, visit [their site](https://www.prusaprinters.org/prints/27950-prusa-face-shield-us-version).
 
