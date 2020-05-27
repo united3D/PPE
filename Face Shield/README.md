@@ -8,7 +8,7 @@ Our face shield design is based on the Prusa design. To learn more about it, vis
 Here are some settings that we recommend (depending on your printer):
 
 * Quality:
-	*    Layer Height - 0.18
+	*    Layer Height - 0.2
 	*    Initial Layer - 0.1
 	*    Line Width - 0.5
 * Shell:
