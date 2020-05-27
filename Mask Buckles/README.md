@@ -1,6 +1,6 @@
 # Mask Buckles
 
-Our rendition of the classic mask buckle. This helps to reduce the stress of the mask on the ears. 
+Our rendition of the classic mask buckle. This helps to reduce the stress of the mask on the ears. As of **5/27/20** please use `mask_buckle_v9.stl`.
 
 ## Settings
 Here are some settings that we recommend (depending on your printer):
