@@ -6,6 +6,7 @@ Our rendition of the classic mask buckle. This helps to reduce the stress of the
 Here are some settings that we recommend (depending on your printer):
 
 * Quality:
+	*    Layer Height - 0.2
 	*    Initial Layer - 0.1
 	*    Line Width - 0.5
 * Shell:
