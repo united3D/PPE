@@ -2,6 +2,11 @@
 
 Our rendition of the classic mask buckle. This helps to reduce the stress of the mask on the ears. As of **5/27/20** please use `mask_buckle_v10.stl`.
 
+##Process
+Print the following pieces:
+
+* `mask_buckle_v{latest version}.stl`
+
 ## Settings
 Here are some settings that we recommend (depending on your printer):
 
@@ -27,7 +32,7 @@ Here are some settings that we recommend (depending on your printer):
 * Support:
 	*    Disable Support
 * Build Plate Adhesion:
-	*    Disable Plate Adhesion (depends on the printer, if you want to enable it, be free to try)
+	*  Disable Plate Adhesion (depends on the printer, if you want to enable it)
 
 ---
 The above has been tested on the follwing printers:

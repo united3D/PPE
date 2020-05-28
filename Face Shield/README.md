@@ -4,6 +4,18 @@ Our face shield design is based on the Prusa design. To learn more about it, vis
 
 **Under development. Please refrain from printing unless you receive permission from your regional managers.**
 
+As of **5/27/20**, please use `headband_v10.stl` as the priary headband design.
+
+##PROCESS
+In order to create a face shield, there are a couple of prints required. Please print the following:
+
+* `headband_v{latest version}.stl`
+* `bottom_reinforcement.stl`
+* `left_clip.stl`
+* `right_clip.stl`
+
+In order to make the actual shield, you will need to cut polycarbonate. Please ask your regional manager for instructions regarding the polycarbonate.
+
 ## Settings
 Here are some settings that we recommend (depending on your printer):
 
@@ -29,7 +41,11 @@ Here are some settings that we recommend (depending on your printer):
 * Support:
 	*    Disable Support
 * Build Plate Adhesion:
-	*    Disable Plate Adhesion (depends on the printer, if you want to enable it, be free to try)
+	*	Initial Layer Build Plate: 70˚ C
+	* 	Build Plate: 60˚ C
+	*  Disable Plate Adhesion (depends on the printer, if you want to enable it)
+		* Lulzbot Taz 6: Raft
+		* PowerSpec(Wanhao) Duplicator i3: None
 
 ---
 The above has been tested on the follwing printers:
