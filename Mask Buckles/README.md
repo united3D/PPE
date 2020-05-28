@@ -2,7 +2,7 @@
 
 Our rendition of the classic mask buckle. This helps to reduce the stress of the mask on the ears. As of **5/27/20** please use `mask_buckle_v10.stl`.
 
-##Process
+## Process
 Print the following pieces:
 
 * `mask_buckle_v{latest version}.stl`

@@ -6,7 +6,7 @@ Our face shield design is based on the Prusa design. To learn more about it, vis
 
 As of **5/27/20**, please use `headband_v10.stl` as the priary headband design.
 
-##PROCESS
+## PROCESS
 In order to create a face shield, there are a couple of prints required. Please print the following:
 
 * `headband_v{latest version}.stl`
