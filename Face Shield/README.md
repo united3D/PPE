@@ -11,8 +11,8 @@ In order to create a face shield, there are a couple of prints required. Please 
 
 * `headband_v{latest version}.stl`
 * `bottom_reinforcement.stl`
-* `left_clip.stl`
-* `right_clip.stl`
+* 'clips.gcode'
+
 
 In order to make the actual shield, you will need to cut polycarbonate. Please ask your regional manager for instructions regarding the polycarbonate.
 
@@ -22,14 +22,16 @@ Here are some settings that we recommend (depending on your printer):
 * Quality:
 	*    Layer Height - 0.2
 	*    Initial Layer - 0.1
-	*    Line Width - 0.5
+	*    Line Width (headband) - 0.5
+	*    Line Width (bottom reinforcement) - 0.3
 * Shell:
 	*    Wall Thickness - 1
 	*    Wall count - 1
 	*    Top/Bottom Thickness - 0.6
 	*    Top/Bottom Layers - 3
 * Infill:
-	*    Infill Density - 75%
+	*    Infill Density (headband) - 75%
+	*    Infill Density (bottom reinforcement) - 50%
 	*    Infill Pattern - Triangle
 * Material:
 	*    PLA (use manufacturer's instructions)
