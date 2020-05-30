@@ -11,7 +11,7 @@ In order to create a face shield, there are a couple of prints required. Please 
 
 * `headband_v{latest version}.stl`
 * `bottom_reinforcement.stl`
-* 'Clips.gcode'
+* Clips.gcode
 
 
 In order to make the actual shield, you will need to cut polycarbonate. Please ask your regional manager for instructions regarding the polycarbonate.
