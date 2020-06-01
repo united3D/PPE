@@ -4,14 +4,14 @@ Our face shield design is based on the Prusa design. To learn more about it, vis
 
 **Under development. Please refrain from printing unless you receive permission from your regional managers.**
 
-As of **5/27/20**, please use `headband_v10.stl` as the primary headband design.
+As of **5/27/20**, please use `headband_v12.stl` as the primary headband design.
 
 ## PROCESS
 In order to create a face shield, there are a couple of prints required. Please print the following:
 
 * `headband_v{latest version}.stl`
 * `bottom_reinforcement.stl`
-* Clips.gcode
+* Clips.gcode - please email divi@united3d.org if download does not work
 
 
 In order to make the actual shield, you will need to cut polycarbonate. Please ask your regional manager for instructions regarding the polycarbonate.
@@ -29,6 +29,7 @@ Here are some settings that we recommend (depending on your printer):
 	*    Wall count - 1
 	*    Top/Bottom Thickness - 0.6
 	*    Top/Bottom Layers - 3
+	*    Alternate Walls - yes
 * Infill:
 	*    Infill Density (headband) - 75%
 	*    Infill Density (bottom reinforcement) - 50%
