@@ -11,7 +11,7 @@ In order to create a face shield, there are a couple of prints required. Please 
 
 * `headband_v{latest version}.stl`
 * `bottom_reinforcement.stl`
-* Clips.gcode - please email divi@united3d.org if download does not work
+* `Clips.gcode - please email divi@united3d.org if download does not work`
 
 
 In order to make the actual shield, you will need to cut polycarbonate. Please ask your regional manager for instructions regarding the polycarbonate.
@@ -20,10 +20,12 @@ In order to make the actual shield, you will need to cut polycarbonate. Please a
 Here are some settings that we recommend (depending on your printer):
 
 * Quality:
-	*    Layer Height - 0.2
-	*    Initial Layer - 0.1
+	*    (PowerSpec) Layer Height - 0.2~0.22 
+	*    (Prusa) Layer Heigth - 0.3
+	*    (LulzBot) Layer Height - 0.3
+	*    Initial Layer - 0.15
 	*    Line Width (headband) - 0.5
-	*    Line Width (bottom reinforcement) - 0.3
+	*    Line Width (bottom reinforcement(BR)) - 0.3
 * Shell:
 	*    Wall Thickness - 1
 	*    Wall count - 1
@@ -33,7 +35,7 @@ Here are some settings that we recommend (depending on your printer):
 * Infill:
 	*    Infill Density (headband) - 75%
 	*    Infill Density (bottom reinforcement) - 50%
-	*    Infill Pattern - Triangle
+	*    Infill Pattern - (can be used) Grid / (recommended) Triangle
 * Material:
 	*    PLA (use manufacturer's instructions)
 * Speed:
@@ -49,11 +51,14 @@ Here are some settings that we recommend (depending on your printer):
 	*  Disable Plate Adhesion (depends on the printer, if you want to enable it)
 		* Lulzbot Taz 6: Raft
 		* PowerSpec(Wanhao) Duplicator i3: None
+		* Original Prusa i3 MK3S: Brim (1 layer)
 
 ---
 The above has been tested on the follwing printers:
 
 * PowerSpec(Wanhao) Duplicator i3 
+* Lulzbot Taz 6
+* Original Prusa i3 MK3S
 
 If the above works for your printer, and is not mentioned here, please notify your regional manager.
 
